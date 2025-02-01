@@ -9,6 +9,10 @@
 - 🌱 I’m currently learning **Flutter!**
 
 - 💬 Ask me about **Development and AI/ML**
+  
+- 💼 Full-Stack Developer Intern **@ BharatTech | Developed RecAg, a data science platform**
+
+- 🔬 AI/ML Enthusiast **Worked on Alzheimer’s detection, AI-Powered Disaster Response, and Sentiment Analysis**
 
 - 📫 How to reach me **355pavansvjc@gmail.com**
 
