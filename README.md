@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan20thakur&label=Profile%20views&color=0e75b6&style=flat" alt="pavan20thakur" /> </p>
 
-- 🔭 I’m currently working on [EmergeSense: AI Based Disaster Response System](https://github.com/Rishi-Kokil/AI-Based-Disaster-Response-System)
+- 🔭 I’m currently working on [CognitiveCare: A Comprehensive Detection and Management of Alzheimer’s Disease](https://github.com/Rishi-Kokil/Cognitive-Care)
 
 - 🌱 I’m currently learning **Flutter!**
 
